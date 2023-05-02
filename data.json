@@ -2,19 +2,19 @@
     {
         "title":"Computer",
         "subtitle" :"คืออะไร",
-        "image_url" : "https://cdn.pixabay.com/photo/2017/05/11/11/15/workplace-2303851__340.jpg",
+        "image_url" : "https://raw.githubusercontent.com/thanaphat3017/Flutter/main/computer.jpg",
         "detail" : ""
     },
     {
         "title":"Iphone",
         "subtitle" :"รุ่นอะไรบ้าง",
-        "image_url" : "https://cdn.pixabay.com/photo/2017/05/11/11/15/workplace-2303851__340.jpg",
+        "image_url" : "https://raw.githubusercontent.com/thanaphat3017/Flutter/main/iphone.jpg",
         "detail" : ""
     },
     {
         "title":"Laptop",
         "subtitle" :"รุ่นอะไร",
-        "image_url" : "https://cdn.pixabay.com/photo/2017/05/11/11/15/workplace-2303851__340.jpg",
+        "image_url" : "https://raw.githubusercontent.com/thanaphat3017/Flutter/main/laptop.jpg",
         "detail" : ""
     }
 ]
